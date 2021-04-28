@@ -10,7 +10,8 @@ environment:
 dependencies:
   crypto: ^2.0.6
   intl: any
-  xml: ^4.3.0
+#  xml: ^4.3.0
+  xml: ^5.0.0
 
 
 dev_dependencies:
